@@ -1,0 +1,11 @@
+pyqt6
+pretty_midi
+pandas
+scipy
+matplotlib
+pypianoroll
+librosa
+IPython
+torch
+torch-yin
+sounddevice
